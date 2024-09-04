@@ -1,6 +1,6 @@
 ## Hi there friends👋
-##I’m currently learning Computer science at Reichman university,
-##How to reach me: Joelel1996@gmail.com
+I’m currently learning Computer science at Reichman university,
+How to reach me: Joelel1996@gmail.com
 <!--
 **JoelElias96/JoelElias96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
